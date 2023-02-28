@@ -12,7 +12,7 @@
    ```sh 
    # Download tomcat
    cd /opt
-   wget  https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.6/bin/apache-tomcat-10.1.6.tar.gz
+   wget  https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.86/bin/apache-tomcat-8.5.86.tar.gz
    tar -xvzf apache-tomcat-10.1.6.tar.gz
    ```
    Now Rename tomcat version to tomcat for better naming convention
