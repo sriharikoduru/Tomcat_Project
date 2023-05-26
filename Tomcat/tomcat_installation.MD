@@ -17,7 +17,7 @@
    ```
    Now Rename tomcat version to tomcat for better naming convention
    ```sh
-   mv apache-tomcat-8.5.84 tomcat
+   mv apache-tomcat-8.5.89 tomcat
    ```
 1. give executing permissions to startup.sh and shutdown.sh which are under bin. 
    ```sh
